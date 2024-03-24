@@ -1,0 +1,10 @@
+@media only screen and (min-width: 768px){
+    .popular-planes-wrapper {
+        grid-template-columns: 1fr 1fr ;
+        
+    
+    }
+    .big-plane-wrapper{
+     grid-template-columns: 1fr 1fr;   
+    }
+}
